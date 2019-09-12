@@ -1,0 +1,33 @@
+{
+  "name": "@ayyshim/actoken",
+  "version": "1.0.1",
+  "description": "Generate user confirmation token effectively.",
+  "main": "index.js",
+  "dependencies": {
+    "cryptr": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayyshim/actoken.git"
+  },
+  "keywords": [
+    "actoken",
+    "ayyshim",
+    "activate-token",
+    "user-confirmation",
+    "activation",
+    "acto",
+    "activate",
+    "token"
+  ],
+  "author": "Ashim Upadhaya <upadhayaashim@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayyshim/actoken/issues"
+  },
+  "homepage": "https://github.com/ayyshim/actoken#readme"
+}
